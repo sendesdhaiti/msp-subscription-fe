@@ -1,0 +1,29 @@
+nav{
+    background-color: var(--PRIMARY1-1);
+    grid-area: nav;
+}
+
+main{
+    background-color: var(--PRIMARY1-2);
+    grid-area: main;
+}
+
+#content1{
+    background-color: var(--PRIMARY1-2);
+    grid-area: content1;
+}
+
+#content2{
+    background-color: var(--PRIMARY1-2);
+    grid-area: content2;
+}
+
+#content3{
+    background-color: var(--PRIMARY1-2);
+    grid-area: content3;
+}
+
+footer{
+    background-color: var(--SECONDARY);
+    grid-area: footer;
+}
